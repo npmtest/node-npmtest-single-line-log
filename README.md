@@ -1,4 +1,7 @@
-# test coverage for  [single-line-log (v1.1.2)](https://github.com/freeall/single-line-log#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-single-line-log.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-single-line-log) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-single-line-log.svg)](https://travis-ci.org/npmtest/node-npmtest-single-line-log)
+# npmtest-single-line-log
+
+#### basic test coverage for  [single-line-log (v1.1.2)](https://github.com/freeall/single-line-log#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-single-line-log.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-single-line-log) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-single-line-log.svg)](https://travis-ci.org/npmtest/node-npmtest-single-line-log)
+
 #### Keep writing to the same line in the terminal. Very useful when you write progress bars, or a status message during longer operations
 
 [![NPM](https://nodei.co/npm/single-line-log.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/single-line-log)
